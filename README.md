@@ -1,72 +1,62 @@
 # Plateforme care_bj
 
-## Présentation du projet
+## Project Overview
 
-La **Plateforme care_bj Bénin** est une solution numérique collaborative dédiée au suivi des patients et à la coordination des acteurs de santé. Elle vise à faciliter les échanges entre les patients, les soignants et l’écosystème médical — établissements de santé, pharmacies, ministères et agences publiques — au moyen d’une interface simple, inclusive et adaptée aux contraintes locales.
+The **care_bj Benin Platform** is a collaborative digital solution designed for patient monitoring and the coordination of healthcare providers. It aims to facilitate communication between patients, caregivers, and the medical ecosystem on the one hand, and healthcare facilities, pharmacies, ministries, and public agencies on the other, through a simple, inclusive interface tailored to local conditions.
 
-Le projet a été conçu dans le cadre du **Challenge care_bj Bénin**, avec l’objectif de réaliser en trois jours une plateforme fonctionnelle, déployée en ligne et prête à être testée en situation réelle ou avec des données fictives.
+The project was developed as part of the **care_bj Benin Challenge**, with the goal of creating a functional platform within three days—one that is deployed online and ready to be tested in a real-world environment or with mock data.
 
-## À quoi sert la plateforme ?
+## What is the platform used for?
 
-La plateforme doit permettre de :
+The platform must enable the following:
 
-- centraliser les informations utiles au suivi des patients ;
-- améliorer la communication entre les patients et les professionnels de santé ;
-- faciliter la coordination entre les différents acteurs du parcours de soins ;
-- rendre les informations de santé plus accessibles, y compris pour les personnes en situation de handicap visuel ou auditif ;
-- proposer une expérience utilisable quel que soit le niveau d’alphabétisation ;
-- fonctionner correctement dans des contextes de connectivité limitée ;
-- gérer et présenter des contenus de santé à partir de données fictives ou réelles.
+- centralize information relevant to patient care;
+- improve communication between patients and healthcare professionals;
+- facilitate coordination among the various stakeholders in the care pathway;
+- make health information more accessible, including for people with visual or hearing impairments;
+- provide a user-friendly experience regardless of literacy level;
+- manage and present health content based on fictional or real-world data.
 
-L’objectif principal est de contribuer à un parcours de soins plus fluide, plus compréhensible et mieux coordonné, en plaçant les besoins des patients et des soignants au centre de la conception.
+The main objective is to contribute to a smoother, more understandable, and better-coordinated care journey by placing the needs of patients and caregivers at the center of the design process.
 
-## Fonctionnalités attendues
+## Expected Features
 
-La solution doit proposer au minimum :
+The solution must offer at least the following:
 
-- une interface claire, intuitive et responsive ;
-- un espace de consultation et de gestion des informations liées aux patients ;
-- des fonctionnalités collaboratives adaptées aux patients et aux soignants ;
-- une gestion de contenu, même basique ;
-- des mécanismes favorisant l’accessibilité numérique ;
-- une conception compatible avec une connexion Internet limitée ;
-- une plateforme déployée en ligne et testable ;
-- un dépôt GitHub contenant l’intégralité du code source.
+- a clear, intuitive, and responsive interface;
+- a space for viewing and managing patient-related information;
+- collaborative features tailored to patients and caregivers;
+- content management, even at a basic level;
+- mechanisms that promote digital accessibility;
+- a design compatible with limited Internet connectivity;
+- an online platform that can be tested;
+- a GitHub repository containing the complete source code.
 
-## Accessibilité et inclusion
+## Accessibility and Inclusion
 
-L’inclusion constitue un élément essentiel du projet. La plateforme doit être pensée pour être utilisable par :
+Inclusion is an essential component of the project. The platform must be designed to be usable by:
 
-- les personnes ayant une déficience visuelle ;
-- les personnes ayant une déficience auditive ;
-- les personnes peu ou pas alphabétisées ;
-- les utilisateurs disposant d’une connexion Internet faible ou instable.
+- people with visual impairments;
+- people with hearing impairments;
+- people with low or no literacy skills;
+- users with a slow or unstable Internet connection.
 
-Cela implique notamment une interface lisible, des contrastes suffisants, une navigation au clavier, des libellés explicites, des contenus alternatifs et, lorsque cela est pertinent, des supports audio ou visuels.
+This includes, in particular, a clear interface, sufficient contrast, keyboard navigation, explicit labels, alternative content, and, where appropriate, audio or visual aids.
 
-## Données
+## Data
 
-Le projet peut s’appuyer sur des données fictives ou réelles. Les données utilisées doivent toutefois être présentées de manière responsable et respecter les exigences de confidentialité applicables aux informations de santé.
+The project may be based on fictional or real data. However, the data used must be presented responsibly and comply with the confidentiality requirements applicable to health information.
 
-## Livrables
+## Deliverables
 
-À la fin du challenge, les éléments suivants doivent être disponibles :
+At the end of the challenge, the following must be available:
 
-- une solution fonctionnelle et inclusive ;
-- une interface claire et accessible ;
-- une gestion de contenu opérationnelle ;
-- un dépôt GitHub avec le code complet ;
-- une plateforme déployée en ligne et accessible pour une démonstration.
+- a functional and inclusive solution;
+- a clear and accessible interface;
+- a working content management system;
+- a GitHub repository containing the complete code;
+- a platform deployed online and accessible for a demonstration.
 
-## Critères d’évaluation
+## Desired Impact
 
-Le projet sera évalué selon quatre axes principaux :
-
-1. la profondeur de la réflexion sur les usages et les besoins du terrain ;
-2. la qualité du design et de l’expérience utilisateur ;
-3. le fonctionnement réel de la plateforme ;
-4. la qualité et la lisibilité du code.
-
-## Impact recherché
-
-La Plateforme care_bj Bénin ambitionne de montrer comment le numérique peut améliorer la continuité des soins, simplifier les échanges et renforcer la collaboration entre les acteurs de santé. La priorité n’est pas uniquement de produire une application technique, mais de construire une solution utile, accessible et adaptée aux réalités des utilisateurs.
+The care_bj Benin Platform aims to demonstrate how digital technology can improve continuity of care, streamline communication, and strengthen collaboration among healthcare providers. The priority is not merely to develop a technical application, but to build a solution that is useful, accessible, and tailored to users realities.
