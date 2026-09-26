@@ -60,3 +60,8 @@ At the end of the challenge, the following must be available:
 ## Desired Impact
 
 The care_bj Benin Platform aims to demonstrate how digital technology can improve continuity of care, streamline communication, and strengthen collaboration among healthcare providers. The priority is not merely to develop a technical application, but to build a solution that is useful, accessible, and tailored to users realities.
+
+
+## Auteur
+
+Ce projet a été conçu et développé par **Mithelle ALAVO** dans le cadre du chalenge e-santé.
